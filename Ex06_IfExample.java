@@ -26,8 +26,6 @@ public class Ex06_IfExample {
 		}else {
 			System.out.println("응 아니야");
 		}
-	
-		
-				
+
 	}
 }
