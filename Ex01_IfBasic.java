@@ -26,7 +26,8 @@ public class Ex01_IfBasic {
 			System.out.println("num2가 크다");
 		} else { // num1 >= num2 
 			System.out.println("num1이 num2보다 크거나 같다");
-		} 
+		}
+
 		
 		// if else if
 		if (num1 > num2) {
